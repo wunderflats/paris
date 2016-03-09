@@ -7,7 +7,6 @@
     "start": "node lib/index.js",
     "test": "mocha test --recursive",
     "lint": "eslint lib test",
-    "pretest": "dependency-check package.json",
     "precommit": "npm run lint && npm test"
   },
   "author": "Wunderflats GmbH",
