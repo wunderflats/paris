@@ -1,6 +1,6 @@
 {
   "name": "@wunderflats/paris",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert an array to pairs of its values.",
   "main": "lib/index.js",
   "scripts": {
