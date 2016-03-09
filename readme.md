@@ -1,6 +1,14 @@
-# paris
+# @wunderflats/paris
 
 [![Travis Build](http://img.shields.io/travis/wunderflats/paris.svg?style=flat)](https://travis-ci.org/wunderflats/paris) [![npm](https://img.shields.io/npm/dm/paris.svg)](https://www.npmjs.com/package/paris)
+
+## Installation
+
+```
+$ npm i @wunderflats/paris
+```
+
+## Usage
 
 Convert an array to pairs of its values.
 
